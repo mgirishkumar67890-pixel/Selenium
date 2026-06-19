@@ -7,7 +7,7 @@ import org.testng.annotations.BeforeTest;
 public class GitDemo {
 	WebDriver driver;
   @Test
-  public void f() {
+  public void facebook() {
   }
   @BeforeTest
   public void beforeTest() {
