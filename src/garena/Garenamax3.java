@@ -22,7 +22,7 @@ public class Garenamax3 {
 	Thread.sleep(3000);
 	driver.navigate().to("https://hcl.com");
 	driver.navigate().back();
-	driver.quit();  
+	driver.close();  
 	
 	
 	
