@@ -36,13 +36,13 @@ class Demo2 {
 
 	@Test
 	void google() {
-		driver.get("https://google.com");
+		driver.get("https://www.google.com");
 		
 	}
 		
 	@Test
 	void hcl () {
-		driver.get("https://hcl.com");
+		driver.get("https://wwww.hcl.com");
 		
 	}
 }
